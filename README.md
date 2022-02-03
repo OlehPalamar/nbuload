@@ -1,5 +1,5 @@
 # nbuload
-Пакет реализует функции загрузки курсоа валют с сайтп НБУ (https:\\bank.gov.ua)
+Пакет реализует функции загрузки курсоа валют с сайтп [https:\\bank.gov.ua\](https:\\bank.gov.ua\)
 Функции:
 1) func LoadRates() []NBURates - получение курса на текщую дату
 2) func LoadRatesPeriod(from, to time.Time) []NBURates - получение курсов за период дат
